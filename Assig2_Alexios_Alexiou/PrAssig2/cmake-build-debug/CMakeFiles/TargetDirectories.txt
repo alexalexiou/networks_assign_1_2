@@ -1,0 +1,5 @@
+/Users/alex/CLionProjects/PrAssig2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alex/CLionProjects/PrAssig2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/CLionProjects/PrAssig2/cmake-build-debug/CMakeFiles/helper.dir
+/Users/alex/CLionProjects/PrAssig2/cmake-build-debug/CMakeFiles/client.dir
+/Users/alex/CLionProjects/PrAssig2/cmake-build-debug/CMakeFiles/server.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/PrAssig2/server.c
+sys/types.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+string.h
+-
+netdb.h
+-
+stdio.h
+-
+math.h
+-
+
