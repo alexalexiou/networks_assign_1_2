@@ -47,6 +47,7 @@ Run Server First:
 
 Compile 	
 cc server.c -o server
+
 Run      	   
 ./server 3000
 
@@ -54,6 +55,7 @@ Then Run Client in a second terminal:
 
 Compile 
 cc client.c -o client
+
 Run
 ./client localhost 3000
 
