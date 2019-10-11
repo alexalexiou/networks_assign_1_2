@@ -41,6 +41,8 @@ Server opens and read a file, where there is information about the users( subscr
 Both assignments have been implemented in OS 10.14.4 (18E226) with gcc compiler. 
 
 
+
+
 -Compile and Run instructions:
 
 Run Server First:
