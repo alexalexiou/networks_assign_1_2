@@ -11,10 +11,10 @@ Client using customized protocol on top of UDP protocol for sending information 
 Data Packet format can be found in the assignments_promts directory 
 
 -Server sends back the appropriate packet (ACK or Reject) with the appropriate error sub code:
-	Packet not in the right sequence
-	Length miss-match of the payload
-	End of packet identifier error
-	Duplicate packet
+	-a)Packet not in the right sequence
+	-b)Length miss-match of the payload
+	-c)End of packet identifier error
+	-d)Duplicate packet
 
 Client starts a timer (ack_timer) for every packet sent to the server. If there is no response from the server, client needs to retransmit the packet ( avoiding duplicate reject packets from the server). Client retransmits the packet 3 times at most, if there is no response. If there is no ACK from the server, the client generates  “Server doesn’t respond” and stops sending the packet.
 
@@ -31,9 +31,9 @@ Packets’ format can be seen in the assignments_promts directory
 Server opens and read a file, where there is information about the users( subscriber’s number, tech, paid or not)
 
 -Server sends back packet with the corresponding sub codes, about the user in the specified format
-	Subscriber doesn’t exist
-	Subscriber granted access to the network
-	Subscriber has paid
+	-a)Subscriber doesn’t exist
+	-b)Subscriber granted access to the network
+	-c)Subscriber has paid
 
 
 
