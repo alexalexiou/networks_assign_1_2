@@ -1,4 +1,7 @@
-# networks_assign_1_2
+# Project for COEN-233/ Computer Networks at Santa Clara University
+
+*For details, see the assignments_promts directory, where requirements can be found
+
 
  Information about the assignments
 
@@ -32,8 +35,6 @@ Server opens and read a file, where there is information about the users( subscr
 	Subscriber granted access to the network
 	Subscriber has paid
 
-
-*For details, see the assignments_promts directory, where requirements can be found
 
 
 - Instructions for compiling and running the programs
