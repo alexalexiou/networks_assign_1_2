@@ -45,17 +45,17 @@ Compile and Run instructions:
 
 Run Server First:
 
-Compile
+Compile:
 cc server.c -o server
 
-Run      	   
+Run:
 ./server 3000
 
 Then Run Client in a second terminal:
 
-Compile 
+Compile:
 cc client.c -o client
 
-Run
+Run:
 ./client localhost 3000
 
